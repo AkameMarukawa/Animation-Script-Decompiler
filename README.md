@@ -1,5 +1,5 @@
 # Animation-Script-Decompiler
-A program to help decompile Pokemon Animations from hexadecimal bytes to text (either plain text or LaTeX code). This works with FireRed only so far, but support for Emerald is in the works.
+A program to help decompile Pokemon Animations from hexadecimal bytes to text (either plain text or LaTeX code). This works with FireRed only so far, but support for Emerald is in the works. This code is written in Python 3, so if you have Python 2, it may not run.
 
 # How to Set It Up
 First you will need have a folder called "Input" (spelled in that exact way). You will also need a folder called "Output". These need to be in the same directory as the program. Make sure that the included "Lists" folder is also in that directory.
