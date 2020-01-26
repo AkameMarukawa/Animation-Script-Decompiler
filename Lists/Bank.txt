@@ -1,0 +1,4 @@
+User, 00
+Target, 01
+MySide, 02
+FoeSide, 03

@@ -1,0 +1,372 @@
+StartPsychicBG+ROM, 081D59BB
+EndPsychicBG+ROM, 081D59C7
+HealingAnimation+ROM, 081D56C9
+HealingStars+ROM, 081D569E
+FreezeChance2+ROM, 081D548E
+FreezeChance+ROM, 081D540A
+BuffEffect+ROM, 081CB267
+Roaring+ROM, 081CDB06
+ScreenEffect+ROM, 081CDC4F
+PoisonBubbles+ROM, 081D575B
+HealingAnimation2+ROM, 081D5712
+StartFlyBG+ROM, 081D59CF
+StartFlyBGContest+ROM, 081D59E8
+EndScrollingBG+ROM, 081D59FF
+PoisonBubbles+ROM, 081D575B
+SolarbeamChooseBG+ROM, 081D5A07
+SolarbeamEndBG+ROM, 081D5A41
+ParalyseChance+ROM, 081D58D4
+PoundAnimation+ROM, 081C6F34
+Karate ChopAnimation+ROM, 081CFCEA
+Double-SlapAnimation+ROM, 081C6F65
+Comet PunchAnimation+ROM, 081C7E63
+Mega PunchAnimation+ROM, 081C7CED
+Pay DayAnimation+ROM, 081C9455
+Fire PunchAnimation+ROM, 081D08B5
+Ice PunchAnimation+ROM, 081CD2E0
+ThunderpunchAnimation+ROM, 081CD6CA
+ScratchAnimation+ROM, 081CD97A
+Vice GripAnimation+ROM, 081C9381
+GuillotineAnimation+ROM, 081C93C9
+Razor WindAnimation+ROM, 081D15B9
+Swords DanceAnimation+ROM, 081C8644
+CutAnimation+ROM, 081C832A
+GustAnimation+ROM, 081CF648
+Wing AttackAnimation+ROM, 081CF699
+WhirlwindAnimation+ROM, 081C9989
+FlyAnimation+ROM, 081CFC1D
+BindAnimation+ROM, 081D0D00
+SlamAnimation+ROM, 081C8AA9
+Vine WhipAnimation+ROM, 081C8B31
+StompAnimation+ROM, 081C82CA
+Double KickAnimation+ROM, 081CFE98
+Mega KickAnimation+ROM, 081C7DC7
+Jump KickAnimation+ROM, 081CFDA5
+Rolling KickAnimation+ROM, 081CA1DA
+Sand-AttackAnimation+ROM, 081CDF22
+HeadbuttAnimation+ROM, 081CA25D
+Horn AttackAnimation+ROM, 081CA2BA
+Fury AttackAnimation+ROM, 081CA327
+Horn DrillAnimation+ROM, 081CA3A4
+TackleAnimation+ROM, 081C7492
+Body SlamAnimation+ROM, 081C74D0
+WrapAnimation+ROM, 081D0D3A
+Take DownAnimation+ROM, 081C7886
+ThrashAnimation+ROM, 081CA521
+Double-EdgeAnimation+ROM, 081C791A
+Tail WhipAnimation+ROM, 081C8311
+Poison StingAnimation+ROM, 081C7A2D
+TwineedleAnimation+ROM, 081C7A82
+Pin MissisleAnimation+ROM, 081C76FC
+LeerAnimation+ROM, 081D09C8
+BiteAnimation+ROM, 081CE190
+GrowlAnimation+ROM, 081CDB57
+RoarAnimation+ROM, 081CDAC0
+SingAnimation+ROM, 081CA5A0
+SupersonicAnimation+ROM, 081C755D
+SonicboomAnimation+ROM, 081C7EDB
+DisableAnimation+ROM, 081D169F
+AcidAnimation+ROM, 081CF308
+EmberAnimation+ROM, 081C7C79
+FlamethrowerAnimation+ROM, 081CFA15
+MistAnimation+ROM, 081D0821
+Water GunAnimation+ROM, 081CF87A
+Hydro PumpAnimation+ROM, 081CE9EE
+SurfAnimation+ROM, 081CFA01
+Ice BeamAnimation+ROM, 081CE2FB
+BlizzardAnimation+ROM, 081CE768
+PsybeamAnimation+ROM, 081D0D50
+BubblebeamAnimation+ROM, 081C9D13
+Aurora BeamAnimation+ROM, 081CE43F
+Hyper BeamAnimation+ROM, 081D29A7
+PeckAnimation+ROM, 081CF736
+Drill PeckAnimation+ROM, 081C8B68
+SubmissionAnimation+ROM, 081D029C
+Low KickAnimation+ROM, 081CA674
+CounterAnimation+ROM, 081D005A
+Seismic TossAnimation+ROM, 081D472C
+StrengthAnimation+ROM, 081C73FE
+AbsorbAnimation+ROM, 081CEBD5
+Mega DrainAnimation+ROM, 081CECED
+Leech SeedAnimation+ROM, 081C7C23
+GrowthAnimation+ROM, 081C9953
+Razor LeafAnimation+ROM, 081D058C
+SolarbeamAnimation+ROM, 081CE513
+PoisonpowderAnimation+ROM, 081C6FB8
+Stun SporeAnimation+ROM, 081C70E9
+Sleep PowderAnimation+ROM, 081C7217
+Petal DanceAnimation+ROM, 081D0454
+String ShotAnimation+ROM, 081D1446
+Dragon RageAnimation+ROM, 081CE068
+Fire SpinAnimation+ROM, 081C8836
+ThundershockAnimation+ROM, 081C7F3C
+ThunderboltAnimation+ROM, 081C7FAA
+Thunder WaveAnimation+ROM, 081C8160
+ThunderAnimation+ROM, 081CD570
+Rock ThrowAnimation+ROM, 081C9AFF
+EarthquakeAnimation+ROM, 081CA6D1
+FissureAnimation+ROM, 081CA71E
+DigAnimation+ROM, 081CA841
+ToxicAnimation+ROM, 081CF131
+ConfusionAnimation+ROM, 081CD40B
+PsychicAnimation+ROM, 081CD46C
+HypnosisAnimation+ROM, 081D0DEA
+MeditateAnimation+ROM, 081CA95D
+AgilityAnimation+ROM, 081CA97A
+Quick AttackAnimation+ROM, 081CA9C4
+RageAnimation+ROM, 081CAA1C
+TeleportAnimation+ROM, 081CAA92
+Night ShadeAnimation+ROM, 081D11BB
+MimicAnimation+ROM, 081D1777
+ScreechAnimation+ROM, 081C75B5
+Double TeamAnimation+ROM, 081CAAAB
+RecoverAnimation+ROM, 081D16CD
+HardenAnimation+ROM, 081CD0AB
+MinimizeAnimation+ROM, 081CAAF2
+SmokescreenAnimation+ROM, 081C9EB0
+Confuse RayAnimation+ROM, 081C9A31
+WithdrawAnimation+ROM, 081CE432
+Defence CurlAnimation+ROM, 081C8F1C
+BarrierAnimation+ROM, 081CDD2D
+Light ScreenAnimation+ROM, 081CDC28
+HazeAnimation+ROM, 081D0882
+ReflectAnimation+ROM, 081CDCDA
+Focus EnergyAnimation+ROM, 081D1307
+BideAnimation+ROM, 081D1347
+MetronomeAnimation+ROM, 081CAB05
+Mirror MoveAnimation+ROM, 081C6F34
+Self DestructAnimation+ROM, 081C89B9
+EggBombAnimation+ROM, 081D1203
+LickAnimation+ROM, 081D12E0
+SmogAnimation+ROM, 081CDE20
+SludgeAnimation+ROM, 081CF1A0
+Bone ClubAnimation+ROM, 081CF456
+Fire BlastAnimation+ROM, 081C7AF5
+WaterfallAnimation+ROM, 081C8BC1
+ClampAnimation+ROM, 081CE29E
+SwiftAnimation+ROM, 081C7345
+Skull BashAnimation+ROM, 081CAB2F
+Spike CannonAnimation+ROM, 081C8591
+ConstrictAnimation+ROM, 081D17C1
+AmnesiaAnimation+ROM, 081CABF5
+KinesisAnimation+ROM, 081CAC19
+SoftboiledAnimation+ROM, 081D18E9
+Hi Jump KickAnimation+ROM, 081CFE02
+GlareAnimation+ROM, 081CAC6A
+Dream EaterAnimation+ROM, 081D0A1F
+Poison GasAnimation+ROM, 081D0C22
+BarrageAnimation+ROM, 081CACD3
+Leech LifeAnimation+ROM, 081CF085
+Lovely KissAnimation+ROM, 081D1C6C
+Sky AttackAnimation+ROM, 081CAD1B
+TransformAnimation+ROM, 081D2811
+BubbleAnimation+ROM, 081CDD4A
+Dizzy PunchAnimation+ROM, 081C86FC
+SporeAnimation+ROM, 081D03EF
+FlashAnimation+ROM, 081CAEB3
+PsywaveAnimation+ROM, 081D0E4A
+SplashAnimation+ROM, 081CAEC0
+Acid ArmourAnimation+ROM, 081CAED5
+CrabhammerAnimation+ROM, 081CF907
+ExplosionAnimation+ROM, 081C8E15
+Fury SwipesAnimation+ROM, 081D1CB3
+BonemerangAnimation+ROM, 081CF402
+RestAnimation+ROM, 081CD3CB
+Rock SlideAnimation+ROM, 081C9B8B
+Hyper FangAnimation+ROM, 081D2165
+SharpenAnimation+ROM, 081CAEEE
+ConversionAnimation+ROM, 081C9FA9
+Tri AttackAnimation+ROM, 081D21CC
+Super FangAnimation+ROM, 081CAEFA
+SlashAnimation+ROM, 081CAF7B
+SubstituteAnimation+ROM, 081D3433
+StruggleAnimation+ROM, 081CAFB5
+SketchAnimation+ROM, 081CB01B
+Triple KickAnimation+ROM, 081CFECB
+ThiefAnimation+ROM, 081C9CCC
+Spider WebAnimation+ROM, 081D1518
+Mind ReaderAnimation+ROM, 081CD1A8
+NightmareAnimation+ROM, 081CB043
+Flame WheelAnimation+ROM, 081C7602
+SnoreAnimation+ROM, 081CDB98
+CurseAnimation+ROM, 081D1829
+FlailAnimation+ROM, 081CB099
+Conversion 2Animation+ROM, 081CA0BE
+AeroblastAnimation+ROM, 081CF75D
+Cotton SporeAnimation+ROM, 081D0395
+ReversalAnimation+ROM, 081C8445
+SpiteAnimation+ROM, 081CB0D6
+Powder SnowAnimation+ROM, 081CE8F4
+ProtectAnimation+ROM, 081C8F55
+Mach PunchAnimation+ROM, 081CB105
+Scary FaceAnimation+ROM, 081D1BA0
+Feint AttackAnimation+ROM, 081CDE9B
+Sweet KissAnimation+ROM, 081D1C03
+Belly DrumAnimation+ROM, 081CD0C0
+Sludge BombAnimation+ROM, 081CF1E2
+Mud-SlapAnimation+ROM, 081CDFCA
+OctazookaAnimation+ROM, 081D07BB
+SpikesAnimation+ROM, 081CF503
+Zap CannonAnimation+ROM, 081D0ED0
+ForesightAnimation+ROM, 081CB18D
+Destiny BondAnimation+ROM, 081CB1CC
+Perish SongAnimation+ROM, 081D1F41
+Icy WindAnimation+ROM, 081C9DF0
+DetectAnimation+ROM, 081C8F72
+Bone RushAnimation+ROM, 081CF4B8
+Lock-OnAnimation+ROM, 081C9A84
+OutrageAnimation+ROM, 081C94A8
+SandstormAnimation+ROM, 081CFAB2
+Giga DrainAnimation+ROM, 081CEE7D
+EndureAnimation+ROM, 081CB227
+CharmAnimation+ROM, 081CB2BB
+RolloutAnimation+ROM, 081CB2FE
+False SwipeAnimation+ROM, 081CB33F
+SwaggerAnimation+ROM, 081CB3C6
+Milk DrinkAnimation+ROM, 081CB40E
+SparkAnimation+ROM, 081C9643
+Fury CutterAnimation+ROM, 081C88EA
+Steel WingAnimation+ROM, 081D0FB5
+Mean LookAnimation+ROM, 081C9ABA
+AttractAnimation+ROM, 081C985A
+Sleep TalkAnimation+ROM, 081D20AA
+Heal BellAnimation+ROM, 081D196B
+ReturnAnimation+ROM, 081D36FA
+PresentAnimation+ROM, 081D1DC8
+FrustrationAnimation+ROM, 081C8FD0
+SafeguardAnimation+ROM, 081C9297
+Pain SplitAnimation+ROM, 081C92D9
+Sacred FireAnimation+ROM, 081CD793
+MagnitudeAnimation+ROM, 081CB450
+DynamicpunchAnimation+ROM, 081CFF92
+MegahornAnimation+ROM, 081CF55A
+DragonbreathAnimation+ROM, 081CD9AC
+Baton PassAnimation+ROM, 081D1F1F
+EncoreAnimation+ROM, 081D23FE
+PursuitAnimation+ROM, 081C8520
+Rapid SpinAnimation+ROM, 081CB4E1
+Sweet ScentAnimation+ROM, 081D28BD
+Iron TailAnimation+ROM, 081D1064
+Metal ClawAnimation+ROM, 081D1128
+Vital ThrowAnimation+ROM, 081D0129
+Morning SunAnimation+ROM, 081D2829
+SynthesisAnimation+ROM, 081CF107
+MoonlightAnimation+ROM, 081CB54E
+Hidden PowerAnimation+ROM, 081C835C
+Cross ChopAnimation+ROM, 081CFD3C
+TwisterAnimation+ROM, 081D4D0E
+Rain DanceAnimation+ROM, 081CE145
+Sunny DayAnimation+ROM, 081D033F
+CrunchAnimation+ROM, 081CE1EE
+Mirror CoatAnimation+ROM, 081CDCB4
+Psych UpAnimation+ROM, 081C868A
+ExtremespeedAnimation+ROM, 081CB5DE
+AncientpowerAnimation+ROM, 081D0693
+Shadow BallAnimation+ROM, 081D129D
+Future SightAnimation+ROM, 081CD4CF
+Rock SmashAnimation+ROM, 081D01A4
+WhirlpoolAnimation+ROM, 081CFB3A
+Beat UpAnimation+ROM, 081C81CF
+Fake OutAnimation+ROM, 081D1B65
+UproarAnimation+ROM, 081CB69C
+StockpileAnimation+ROM, 081D256B
+Spit UpAnimation+ROM, 081D2622
+SwallowAnimation+ROM, 081D2765
+Heat WaveAnimation+ROM, 081CB766
+HailAnimation+ROM, 081CB816
+TormentAnimation+ROM, 081CB84E
+FlatterAnimation+ROM, 081D2AE9
+Will-O-WispAnimation+ROM, 081D2340
+MementoAnimation+ROM, 081CB892
+FacadeAnimation+ROM, 081CB8D6
+Focus PunchAnimation+ROM, 081D3633
+SmellingsaltAnimation+ROM, 081CB8F6
+Follow MeAnimation+ROM, 081CB951
+Nature PowerAnimation+ROM, 081D0693
+ChargeAnimation+ROM, 081CB970
+TauntAnimation+ROM, 081CBA0B
+Helping HandAnimation+ROM, 081CBA5F
+TrickAnimation+ROM, 081D24A5
+Role PlayAnimation+ROM, 081D2BE5
+WishAnimation+ROM, 081D2523
+AssistAnimation+ROM, 081CBAD2
+IngrainAnimation+ROM, 081D1D17
+SuperpowerAnimation+ROM, 081CBB43
+Magic CoatAnimation+ROM, 081D4889
+RecycleAnimation+ROM, 081CBBFE
+RevengeAnimation+ROM, 081D335D
+Brick BreakAnimation+ROM, 081CBC32
+YawnAnimation+ROM, 081CBE37
+Knock OffAnimation+ROM, 081D4A0F
+EndeavorAnimation+ROM, 081CBE7A
+EruptionAnimation+ROM, 081CBEEF
+Skill SwapAnimation+ROM, 081CBFBC
+ImprisonAnimation+ROM, 081CC007
+RefreshAnimation+ROM, 081D2C42
+GrudgeAnimation+ROM, 081CC04A
+SnatchAnimation+ROM, 081D414F
+Secret PowerAnimation+ROM, 081D4CBA
+DiveAnimation+ROM, 081D4169
+Arm ThrustAnimation+ROM, 081D2E93
+CamouflageAnimation+ROM, 081CC072
+Tail GlowAnimation+ROM, 081CC0B8
+Lustre PurgeAnimation+ROM, 081CC0FB
+Mist BallAnimation+ROM, 081CC212
+FeatherdanceAnimation+ROM, 081CC2A1
+Teeter DanceAnimation+ROM, 081CC371
+Blaze KickAnimation+ROM, 081D2C85
+Mud SportAnimation+ROM, 081CC3DC
+Ice BallAnimation+ROM, 081D4F8E
+Needle ArmAnimation+ROM, 081CC513
+Slack OffAnimation+ROM, 081CC6C3
+Hyper VoiceAnimation+ROM, 081D2D0D
+Poison FangAnimation+ROM, 081D33F4
+Crush ClawAnimation+ROM, 081CC6DB
+Blast BurnAnimation+ROM, 081D3C0E
+Hydro CannonAnimation+ROM, 081D45B2
+Meteor MashAnimation+ROM, 081D32D6
+AstonishAnimation+ROM, 081D46E4
+Weather BallAnimation+ROM, 081D515D
+AromatherapyAnimation+ROM, 081CC74B
+Fake TearsAnimation+ROM, 081CC8AD
+Air CutterAnimation+ROM, 081CC93D
+OverheatAnimation+ROM, 081D42C0
+Odor SleuthAnimation+ROM, 081CC99F
+Rock TombAnimation+ROM, 081D3E50
+Silver WindAnimation+ROM, 081D3F37
+Metal SoundAnimation+ROM, 081D35E3
+GrasswhistleAnimation+ROM, 081CC9E9
+TickleAnimation+ROM, 081CCADC
+Cosmic PowerAnimation+ROM, 081D3B89
+Water SpoutAnimation+ROM, 081CCB48
+Signal BeamAnimation+ROM, 081CEAED
+Shadow PunchAnimation+ROM, 081CCB76
+ExtrasensoryAnimation+ROM, 081CCBD1
+Sky UppercutAnimation+ROM, 081D4BC1
+Sand TombAnimation+ROM, 081D2D96
+Sheer ColdAnimation+ROM, 081D2E6E
+Muddy WaterAnimation+ROM, 081D2F28
+Bullet SeedAnimation+ROM, 081D2F3A
+Aerial AceAnimation+ROM, 081CCC39
+Icicle SpearAnimation+ROM, 081C77C1
+Iron DefenceAnimation+ROM, 081CCCA3
+BlockAnimation+ROM, 081CCCCD
+HowlAnimation+ROM, 081CCCDC
+Dragon ClawAnimation+ROM, 081D2FD0
+Frenzy PlantAnimation+ROM, 081D343F
+Bulk UpAnimation+ROM, 081CCCFE
+BounceAnimation+ROM, 081CFC87
+Mud ShotAnimation+ROM, 081D3239
+Poison TailAnimation+ROM, 081D10C2
+CovetAnimation+ROM, 081CCD1C
+Volt TackleAnimation+ROM, 081CCD79
+Magical LeafAnimation+ROM, 081D4E6D
+Water SportAnimation+ROM, 081CCE71
+Calm MindAnimation+ROM, 081CCE97
+Leaf BladeAnimation+ROM, 081CCF17
+Dragon DanceAnimation+ROM, 081CCF9A
+Rock BlastAnimation+ROM, 081D4223
+Shock WaveAnimation+ROM, 081CD009
+Water PulseAnimation+ROM, 081D48A6
+Doom DesireAnimation+ROM, 081D4A9F
+Psycho BoostAnimation+ROM, 081D499B
