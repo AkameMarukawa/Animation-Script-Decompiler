@@ -15,10 +15,15 @@ If your compiled animation script has errors in it, such as an improper number o
 \usepackage[dvipsnames]{xcolor}
 
 \definecolor{fern}{RGB}{64, 128, 0}
+
 \definecolor{eggplant}{RGB}{83, 27, 147}
+
 \definecolor{emerald}{RGB}{102, 156, 53}
+
 \definecolor{firered}{RGB}{227, 36, 0}
+
 \definecolor{title}{RGB}{148, 33, 147}
+
 \definecolor{magenta}{rgb}{0.8, 0.0, 0.8}
 
 I also suggest using \usepackage[letterpaper, total={8in, 10in}]{geometry} too, just to get the margains to look right.
