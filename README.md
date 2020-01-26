@@ -1,6 +1,9 @@
 # Animation-Script-Decompiler
 A program to help decompile Pokemon Animations from hexadecimal bytes to text (either plain text or LaTeX code). This works with FireRed only so far, but support for Emerald is in the works.
 
+# How to Set It Up
+First you will need have a folder called "Input" (spelled in that exact way). You will also need a folder called "Output". These need to be in the same directory as the program. Make sure that the included "Lists" folder is also in that directory.
+
 # How to Use
 There are a few things to note before using. The main thing is that if your animation has more than one part (such as it calling other branches of code), then you will need to have the pieces in the input file be in the order they are called. I've included a couple of programs that can help you format things correctly. This was necessary to do so that labeling the branches in the decompiled script worked correctly.
 
@@ -25,3 +28,6 @@ I also suggest using \usepackage[letterpaper, total={8in, 10in}]{geometry} too, 
 3. SplitUp: This doesn't decompile, but it splits up the bytes so that each command + arguments is on one line, and so that separate branches of the script have a line between them. It will also tell you if there are an uneven number of unique call/jump statements and branches. The output is a plain .txt file.
 
 4. Extras: This creates a .txt file where it lists some basic properties of the animation. This include: Particles, Templates/Tasks, Call/Jump statements, and Sounds. It will also tell you if you have an uneven number of calls/jumps and branches.
+
+# To Do
+I want to eventually add support for Emerald and also just clean up the presentation a bit.
